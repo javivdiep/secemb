@@ -16,7 +16,7 @@
         <title>CEMB Page</title>
     </head>
     <body>
-    <center><h1>Sistema Escolar</h1></center>
+    <center><h1>Sistema Escolar WEB</h1></center>
           
         <div class="container col-lg-3">
               <!-- <form action="Controlador" method="post"> -->
